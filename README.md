@@ -18,3 +18,6 @@ Watch and learn
 
 This is a simple web project.  Deployment can be on any web server
 
+## Copyright
+
+SimpleCurve
