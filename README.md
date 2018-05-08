@@ -12,7 +12,7 @@ This is an example to show different parts of the Git repository
 
 ## How To Contribute
 
-Watch and learn
+Please fork this repository and then issue Pull requests for review
 
 ## Deployment
 
